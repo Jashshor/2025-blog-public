@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
+		"title": "Avalon",
+		"description": "JashShor的个人博客",
+		"username": "JashShor"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -30,38 +30,32 @@
 		{
 			"id": "a46372ff45bc5524",
 			"url": "/images/art/a46372ff45bc5524.jpg"
+		},
+		{
+			"id": "url-1765007258868",
+			"url": "https://i.pximg.net/img-master/img/2016/07/21/19/15/11/58018565_p0_master1200.jpg"
 		}
 	],
-	"currentArtImageId": "a46372ff45bc5524",
+	"currentArtImageId": "url-1765007258868",
 	"backgroundImages": [
 		{
 			"id": "",
 			"url": ""
+		},
+		{
+			"id": "url-1765007328443",
+			"url": "https://i.pximg.net/img-master/img/2017/04/16/00/13/10/62423578_p0_master1200.jpg"
 		}
 	],
-	"currentBackgroundImageId": "",
+	"currentBackgroundImageId": "url-1765007328443",
 	"socialButtons": [
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/Jashshor",
 			"label": "Github",
-			"order": 3
-		},
-		{
-			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
-			"order": 2
-		},
-		{
-			"id": "email",
-			"type": "email",
-			"value": "yysuni1001@gmail.com",
-			"label": "",
 			"order": 1
 		}
 	],
-	"clockShowSeconds": false
+	"clockShowSeconds": true
 }
