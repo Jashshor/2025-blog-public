@@ -62,6 +62,13 @@
 			"value": "https://www.xiaohongshu.com/user/profile/61a3668500000000100087a3",
 			"label": "小红书",
 			"order": 2
+		},
+		{
+			"id": "button-1765007898877",
+			"type": "email",
+			"value": "yitianwufeng@qq.com",
+			"label": "",
+			"order": 3
 		}
 	],
 	"clockShowSeconds": true
