@@ -55,6 +55,13 @@
 			"value": "https://github.com/Jashshor",
 			"label": "Github",
 			"order": 1
+		},
+		{
+			"id": "button-1765007819561",
+			"type": "xiaohongshu",
+			"value": "https://www.xiaohongshu.com/user/profile/61a3668500000000100087a3",
+			"label": "小红书",
+			"order": 2
 		}
 	],
 	"clockShowSeconds": true
